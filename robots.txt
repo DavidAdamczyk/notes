@@ -1,1 +1,1 @@
-Sitemap: https://davidadamczyk.github.io/dnotes/sitemap.xml
+Sitemap: https://davidadamczyk.github.io/notes/sitemap.xml
